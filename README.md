@@ -7,13 +7,13 @@
 ## 🧭 杂志归档导航
 
 - 🌐 **《经济学人》(The Economist)**
-  - [2026 年归档](./the_economist/2026.md) (🔥 持续更新中)
+  - [2026 年归档](./01_the_economist/2026.md) (🔥 持续更新中)
 - 🗽 **《纽约客》(The New Yorker)**
-  - [2026 年归档](./the_new_yorker/2026.md) (🔥 持续更新中)
+  - [2026 年归档](./02_the_new_yorker/2026.md) (🔥 持续更新中)
 - 🌊 **《大西洋月刊》(The Atlantic)**
-  - [2026 年归档](./the_atlantic/2026.md) (🔥 持续更新中)
+  - [2026 年归档](./03_the_atlantic/2026.md) (🔥 持续更新中)
 - 🌍 **《国家地理》(National Geographic)**
-  - [2026 年归档](./national_geographic/2026.md) (🔥 持续更新中)
+  - [2026 年归档](./04_national_geographic/2026.md) (🔥 持续更新中)
 
 ---
 
